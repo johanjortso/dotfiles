@@ -20,3 +20,8 @@
 ;; save open buffers
 ;; desktop-save and desktop-read
 ;(desktop-save-mode 1)
+
+
+;;-------Highlight parentheses -------------------
+(show-paren-mode 1)
+(setq show-paren-delay 0)
