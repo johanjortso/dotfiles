@@ -6,3 +6,4 @@
 	ci = commit
 	co = checkout
 	rbc = rebase --continue
+	df = diff
