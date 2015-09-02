@@ -1,0 +1,8 @@
+[user]
+	name = 
+	email = 
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	rbc = rebase --continue
