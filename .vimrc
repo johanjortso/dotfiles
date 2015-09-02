@@ -6,3 +6,6 @@ set backspace=2 " make backspace work like most other apps
 :set whichwrap+=<,>,h,l,[,]
 
 syntax on
+
+set encoding=utf-8  " The encoding displayed.
+set fileencoding=utf-8  " The encoding written to file.
