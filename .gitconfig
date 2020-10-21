@@ -9,3 +9,4 @@
 	cpc = cherry-pick --continue
 	rbc = rebase --continue
 	df = diff
+	ol = log --oneline
